@@ -28,10 +28,12 @@ an exe with a .scr extension).
 You (one time, on your PC)
 
 
-Test it first: right-click SeanCastaway.scr -> Test (runs fullscreen; move the
-mouse to exit).
-
 
 download: SeanCastaway.scr 
 right-click it -> Install. Windows opens Screen Saver Settings with it
 selected; pick a wait time and hit OK. Done.
+
+
+
+Test it first: right-click SeanCastaway.scr -> Test (runs fullscreen; move the
+mouse to exit).
